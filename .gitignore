@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads/Downloads (runtime)
+/tmp/
+
+# Static music files (large, add your own)
+static/*.mp3
+
+# SSL certs
+*.pem
+*.key
+*.crt
+
+# OS
+.DS_Store
+Thumbs.db
