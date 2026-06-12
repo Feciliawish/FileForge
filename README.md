@@ -91,7 +91,7 @@ sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com
 
 ## 💝 赞助 | Support
 
-如果这个项目帮到了你，欢迎支持：[爱发电 · afdian.net](https://ifdian.net/a/Fecilia)
+如果这个项目帮到了你：[爱发电 · afdian.net](https://ifdian.net/a/Fecilia)
 
 ---
 
